@@ -150,6 +150,12 @@ nyc_airbnb |>
 
 ### mapping
 
+links on `leaflet`:
+
+<https://teachdatascience.com/leaflet/>
+
+<https://rstudio.github.io/leaflet/>
+
 ``` r
 nyc_airbnb |> 
   filter(
